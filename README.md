@@ -1,5 +1,5 @@
-![http://labjs.com/](http://i.imgur.com/cslTyLo.png)  
-
+![](http://i.imgur.com/cslTyLo.png)  
+For more reference : http://labjs.com/
 # Parallel Loading
 **LABjs** is a dynamic script loader intended to replace the use of the ugly, non-performant `<script>` tag with a flexible and performance-optimized alternative API.
 

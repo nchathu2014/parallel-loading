@@ -4,7 +4,9 @@
   "description": "![Imgur](http://i.imgur.com/cslTyLo.png)\r # Parallel Loading\r **LABjs** is a dynamic script loader intended to replace the use of the ugly, non-performant <script> tag with a flexible and performance-optimized alternative API.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"lite-server",
+    "start":"npm run dev"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/nchathu2014/parallel-loading/issues"
   },
-  "homepage": "https://github.com/nchathu2014/parallel-loading#readme"
+  "homepage": "https://github.com/nchathu2014/parallel-loading#readme",
+  "devDependencies": {
+    "es6-module-loader": "^0.17.11",
+    "traceur": "0.0.111"
+  }
 }

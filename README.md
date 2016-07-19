@@ -11,3 +11,11 @@ The defining characteristic of LABjs is the ability to load all JavaScript files
 $ npm install
 npm run start
 ```
+
+## Results
+
+### Without LABjs
+![Imgur](http://i.imgur.com/Eiskulq.png?1)
+
+### With LABjs
+![Imgur](http://i.imgur.com/DJ1TPNG.png?1)

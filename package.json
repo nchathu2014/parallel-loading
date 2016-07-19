@@ -1,0 +1,19 @@
+{
+  "name": "parallel-loading",
+  "version": "1.0.0",
+  "description": "![Imgur](http://i.imgur.com/cslTyLo.png)\r # Parallel Loading\r **LABjs** is a dynamic script loader intended to replace the use of the ugly, non-performant <script> tag with a flexible and performance-optimized alternative API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/parallel-loading.git"
+  },
+  "author": "T.D.N.Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/parallel-loading/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/parallel-loading#readme"
+}
